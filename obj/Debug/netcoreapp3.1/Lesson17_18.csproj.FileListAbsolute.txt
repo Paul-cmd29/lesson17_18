@@ -1,0 +1,14 @@
+/Users/paul/Projects/Lesson17_18/Lesson17_18/bin/Debug/netcoreapp3.1/Lesson17_18
+/Users/paul/Projects/Lesson17_18/Lesson17_18/bin/Debug/netcoreapp3.1/Lesson17_18.deps.json
+/Users/paul/Projects/Lesson17_18/Lesson17_18/bin/Debug/netcoreapp3.1/Lesson17_18.runtimeconfig.json
+/Users/paul/Projects/Lesson17_18/Lesson17_18/bin/Debug/netcoreapp3.1/Lesson17_18.runtimeconfig.dev.json
+/Users/paul/Projects/Lesson17_18/Lesson17_18/bin/Debug/netcoreapp3.1/Lesson17_18.dll
+/Users/paul/Projects/Lesson17_18/Lesson17_18/bin/Debug/netcoreapp3.1/Lesson17_18.pdb
+/Users/paul/Projects/Lesson17_18/Lesson17_18/obj/Debug/netcoreapp3.1/Lesson17_18.csproj.AssemblyReference.cache
+/Users/paul/Projects/Lesson17_18/Lesson17_18/obj/Debug/netcoreapp3.1/Lesson17_18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/Lesson17_18/Lesson17_18/obj/Debug/netcoreapp3.1/Lesson17_18.AssemblyInfoInputs.cache
+/Users/paul/Projects/Lesson17_18/Lesson17_18/obj/Debug/netcoreapp3.1/Lesson17_18.AssemblyInfo.cs
+/Users/paul/Projects/Lesson17_18/Lesson17_18/obj/Debug/netcoreapp3.1/Lesson17_18.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/Lesson17_18/Lesson17_18/obj/Debug/netcoreapp3.1/Lesson17_18.dll
+/Users/paul/Projects/Lesson17_18/Lesson17_18/obj/Debug/netcoreapp3.1/Lesson17_18.pdb
+/Users/paul/Projects/Lesson17_18/Lesson17_18/obj/Debug/netcoreapp3.1/Lesson17_18.genruntimeconfig.cache
